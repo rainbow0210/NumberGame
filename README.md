@@ -29,8 +29,6 @@ php -S localhost:8000
 - 再挑戦用のリンク表示
 ## 設定
 環境変数や設定ファイルは使用していません。必要に応じて `result.php` の乱数範囲を変更すると、出題範囲を調整できます。
-## APIリファレンス / ドキュメント
-外部 API は使用していません。画面遷移は `index.html` から `result.php` へのフォーム送信のみで構成されています。
 ## ライセンス
 Unlicense
 
@@ -63,7 +61,5 @@ Open `http://localhost:8000/index.html` in your browser, choose a number from 1 
 - A link for trying again
 ## Configuration
 No environment variables or configuration files are used. If needed, you can adjust the question range by changing the random range in `result.php`.
-## API Reference / Documentation
-No external APIs are used. The application flow consists only of form submission from `index.html` to `result.php`.
 ## License
 Unlicense
