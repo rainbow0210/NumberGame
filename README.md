@@ -30,7 +30,7 @@ php -S localhost:8000
 ## 設定
 環境変数や設定ファイルは使用していません。必要に応じて `result.php` の乱数範囲を変更すると、出題範囲を調整できます。
 ## ライセンス
-Unlicense
+Unlicense license
 
 # English
 ## Overview
@@ -62,4 +62,4 @@ Open `http://localhost:8000/index.html` in your browser, choose a number from 1 
 ## Configuration
 No environment variables or configuration files are used. If needed, you can adjust the question range by changing the random range in `result.php`.
 ## License
-Unlicense
+Unlicense license
